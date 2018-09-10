@@ -4,23 +4,22 @@ A new open-source Flutter project from GeekyAnts that enables the developer to q
 
 This project contains the basic features that are required to build an amazing Flutter application.
 
-# Demo
-![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
-
 ## Getting Started
+
 **Note:** Make sure your Flutter environment is setup.
 
 #### Installation
 
 In the command terminal, run the following commands:
 
-    $ git clone git@github.com:GeekyAnts/FlatApp-Flutter.git
+    $ git clone https://github.com/ravik2015/flutterStarterKit.git
     $ cd FlatApp-Flutter/
     $ flutter run
 
 # Simulate for iOS
+
 #### Method One
-    
+
     Open the project in Xcode from ios/Runner.xcodeproj.
     Hit the play button.
 
@@ -37,4 +36,3 @@ In the command terminal, run the following commands:
     $ flutter run
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter project.
-
